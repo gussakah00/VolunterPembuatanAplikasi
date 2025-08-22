@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* I Gusti Agus Sakah Aditia, [GitHub](https://github.com/gussakah00).**  
+**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).** 
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
@@ -188,6 +188,7 @@ Berikut daftar Volunter yang diterima:
 ### I
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
 * Ifaldy Prayanda Juarsa, [LinkedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
+* I Gusti Agus Sakah Aditia, [GitHub](https://github.com/gussakah00).**  
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
 * Indira Maretta Hulu, [LinkedIn](https://www.linkedin.com/in/indira-hulu-baa0691a0/).
 * Indratama Pangasian Manalu, [GitHub](https://github.com/ianindratama).
